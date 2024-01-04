@@ -1,6 +1,6 @@
 ### `Hi there 👋`
 
-🌐 [Мой сайт/My site](https://nyako.icu)
+🌐 [Мой сайт/My site](https://nyadev.xyz/)
 
 <!--
 Here are some ideas to get you started:
