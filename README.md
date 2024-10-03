@@ -5,6 +5,7 @@
 ### `Внимание` / `Attention`
 
 ⚡ [RU] Мои проекты запрещено использовать любым государственным организациям за исклбючением сферы не военного образования!
+
 ⚡ [EN] My projects are prohibited from being used by any government organizations except in the non-military education sphere!
 
 <!--
