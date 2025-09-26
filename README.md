@@ -4,9 +4,7 @@
 
 🐱 [Avatar GitHub source](https://www.pixiv.net/en/artworks/130399458)
 
-### `Внимание` / `Attention`
-
-⚡ [RU] Мои проекты запрещено использовать любым государственным организациям за исключением сферы не военного образования!
+### `Attention`
 
 ⚡ [EN] My projects are prohibited from being used by any government organizations except in the non-military education sphere!
 
