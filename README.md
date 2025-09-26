@@ -1,6 +1,8 @@
 ### `Hi there 👋`
 
-🌐 [Мой сайт/My site](https://nyadev.xyz/)
+🌐 [My site](https://nyan.pw/)
+
+🐱 [Avatar GitHub source](https://www.pixiv.net/en/artworks/130399458)
 
 ### `Внимание` / `Attention`
 
